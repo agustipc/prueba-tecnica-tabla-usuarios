@@ -1,0 +1,21 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  width: 100%;
+}
+
+header {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  justify-content: center;
+}
+
+thead {
+  background-color: #191919;
+}
+
+.pointer {
+  cursor: pointer;
+}
